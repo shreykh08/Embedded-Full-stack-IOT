@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Eco-server"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "c:\\Users\\Haribhajan\\Desktop\\inventory\\inventory.sln"
+	}
+}
